@@ -16,4 +16,4 @@ This project performs Exploratory Data Analysis (EDA) on a restaurant dataset us
 
 ## 🚀 How to Run
 1. Clone this repo:
-2. git clone https://github.com/USERNAME/restaurant-data-analysis.git
+2. git clone https://github.com/mani-doliya/restaurant-data-analysis.git
